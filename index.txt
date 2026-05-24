@@ -1,2 +1,3 @@
 Homepage contact
 Navigation menu added!
+Footer with social links added!
